@@ -1,2 +1,1 @@
-# fail
-zadacha za chasa
+Това е пробна програма за извеждане на "Hello world"
